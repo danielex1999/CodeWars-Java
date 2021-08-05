@@ -4,6 +4,6 @@ public class Plural{
   return true;
   }else{
   return false;
-}
   }
+ }
 }

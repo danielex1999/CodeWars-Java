@@ -2,4 +2,3 @@ Create a public class called <b>Cube</b> without a constructor which gets one si
 Note: There's no need to check for negative values!
 
 
-

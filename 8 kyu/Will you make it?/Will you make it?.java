@@ -7,5 +7,4 @@ public class Kata {
       return false;
     }
   }
-  
 }

@@ -1,4 +1,4 @@
-# CodeWars
+# ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=black)<img src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" width="35px" alt="java" align="right">
 ![](https://www.codewars.com/users/danielex1999/badges/large)<br><br>
 <img src="https://img.shields.io/badge/Language-Java-blue.svg">
 <img src="https://img.shields.io/badge/Solved Problems-265-brightgreen.svg">

@@ -8,6 +8,8 @@
 <img src="https://img.shields.io/badge/6%20kyu-7-yellow"><br><br>
 Codewars is a collective effort by its users. They are creators - authoring kata to teach various techniques, solving kata with solutions that enlighten others, and commenting with constructive feedback. The leaders among them moderate the content and community. 
 
+<div align="center">
+      
 | Difficulty | #Rank |
 | --- | :---: |
 |Beginner (2 points) | 8th kyū  |
@@ -18,7 +20,7 @@ Codewars is a collective effort by its users. They are creators - authoring kata
 |Competent (32 points)|3rd kyū|
 |Proficient (128 points)|2nd kyū|
 |Proficient (128 points)|1st kyū|
-      
+</div>      
 
 
 <img align='left' src='https://www.ffbegif.com/Rain%20&%20Fina%20(NV)/100032707%20Win%20Before.gif' width='20%'>  

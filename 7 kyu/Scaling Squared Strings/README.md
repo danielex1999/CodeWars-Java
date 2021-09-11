@@ -1,0 +1,1 @@
+# Scaling Squared Strings

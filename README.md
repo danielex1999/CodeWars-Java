@@ -1,8 +1,8 @@
 # ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=black)<img src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" width="35px" alt="java" align="right">
 ![](https://www.codewars.com/users/danielex1999/badges/large)<br><br>
-<img src="https://img.shields.io/badge/Language-Java-blue.svg">
-<img src="https://img.shields.io/badge/Solved Problems-265-brightgreen.svg">
-<img src="https://img.shields.io/github/last-commit/danielex1999/CodeWars-Java?color=red"><br><br>
+<img src="https://img.shields.io/badge/Language-Java-28C8E5.svg">
+<img src="https://img.shields.io/badge/Solved Problems-265-68D612.svg">
+<img src="https://img.shields.io/github/last-commit/danielex1999/Codewars-Java?color=1B3E8E"><br><br>
 <img src="https://img.shields.io/badge/8 kyu-189-lightgrey">
 <img src="https://img.shields.io/badge/7%20kyu-83-orange">
 <img src="https://img.shields.io/badge/6%20kyu-7-yellow"><br><br>

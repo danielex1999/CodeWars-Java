@@ -5,4 +5,5 @@ Given a string made up of letters a, b, and/or c, switch the position of letters
 Example:
 
 'acb' --> 'bca'
+
 'aabacbaa' --> 'bbabcabb'

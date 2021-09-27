@@ -1,3 +1,5 @@
+# A Needle in the Haystack
+
 Can you find the needle in the haystack?
 
 Write a function findNeedle() that takes an array full of junk but containing one "needle"

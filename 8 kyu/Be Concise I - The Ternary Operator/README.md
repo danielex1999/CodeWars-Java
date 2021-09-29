@@ -1,4 +1,4 @@
-**Be Concise I - The Ternary Operator**
+# Be Concise I - The Ternary Operator
 
 You are given a function ```describeAge``` / ```describe_age``` that takes a parameter ```age``` (which will always be a positive integer) and does the following:
 

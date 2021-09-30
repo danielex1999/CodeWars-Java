@@ -1,4 +1,4 @@
-**Color Ghost**
+# Color Ghost
 
 Create a class Ghost
 

@@ -1,3 +1,5 @@
+# Convert a String to a Number!
+
 Note: This kata is inspired by Convert a Number to a String!. Try that one too.
 
 **Description**

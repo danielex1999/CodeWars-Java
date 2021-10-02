@@ -1,3 +1,5 @@
+# Enumerable Magic #1 - True for All?
+
 <b>Task</b>
 Create a method <b>all</b> which takes to params:
 

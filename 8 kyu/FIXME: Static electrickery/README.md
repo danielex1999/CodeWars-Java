@@ -1,3 +1,5 @@
+# FIXME: Static electrickery
+
 The code provided has a method `plus100` which is supposed to return the number of the parameter incremented by 100.
 
 But it's not working properly.

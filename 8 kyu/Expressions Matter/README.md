@@ -1,3 +1,5 @@
+# Expressions Matter
+
 **_Given_** *three integers* `a` ,`b` ,`c`, **_return_** *the **_largest number_** obtained after inserting the following operators and brackets*: `+`, `*`, `()`. 
 ___
 # Consider an Example :
@@ -12,7 +14,7 @@ ___
 So **_the maximum value_** that you can obtain is  **_9_**.
 
 ___
-# Notes 
+## Notes 
 
 * **_The numbers_** *are always* **_positive_**. 
 * **_The numbers_** *are in the range* **_(1? ?? a,?b,?c? ?? 10)_**.
@@ -22,7 +24,7 @@ ___
 * You **_cannot swap the operands_**. For instance, in the given example **_you cannot get expression_** `(1 + 3) * 2 = 8`.
 
 ___
-# Input >> Output Examples:
+## Input >> Output Examples:
 
 ```
 expressionsMatter(1,2,3)  ==>  return 9

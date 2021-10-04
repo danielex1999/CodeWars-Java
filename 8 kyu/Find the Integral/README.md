@@ -1,3 +1,5 @@
+# Find the Integral
+
 Create a function that finds the [integral](https://en.wikipedia.org/wiki/Integral) of the expression passed.
 
 In order to find the integral all you need to do is add one to the `exponent` (the second argument), and divide the `coefficient` (the first argument) by that new number.

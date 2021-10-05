@@ -1,3 +1,5 @@
+# Ghost code?!
+
 Trollencio changed my code! can you fix it?
 My name is not "dumb!" o( TT_TT )o
 

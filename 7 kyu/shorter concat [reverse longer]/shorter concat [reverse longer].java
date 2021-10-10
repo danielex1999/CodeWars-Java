@@ -14,5 +14,4 @@ public class ReverseLonger {
   }
     return result;
   }
-
 }

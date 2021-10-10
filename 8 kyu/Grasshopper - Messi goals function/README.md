@@ -1,3 +1,5 @@
+# Grasshopper - Messi goals function
+
 [Messi](https://en.wikipedia.org/wiki/Lionel_Messi) is a soccer player with goals in three leagues: 
 
 - LaLiga

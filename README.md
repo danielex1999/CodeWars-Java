@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/Solved Problems-300-68D612.svg">
 <img src="https://img.shields.io/github/last-commit/danielex1999/Codewars-Java?color=1B3E8E"><br><br>
 <img src="https://img.shields.io/badge/8 kyu-189-E6E6E6">
-<img src="https://img.shields.io/badge/7%20kyu-98-E6E6E6">
+<img src="https://img.shields.io/badge/7%20kyu-99-E6E6E6">
 <img src="https://img.shields.io/badge/6%20kyu-7-ECB613">
 <img src="https://img.shields.io/badge/5%20kyu-0-ECB613"><br>
 <img src="https://img.shields.io/badge/4%20kyu-3-3C7DBA">

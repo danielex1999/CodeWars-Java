@@ -1,3 +1,5 @@
+# Localize The Barycenter of a Triangle
+
 <a href="http://imgur.com/hpDQY8o"><img src="http://i.imgur.com/hpDQY8o.png?1" title="source: imgur.com" /></a>
 
 The medians of a triangle are the segments that unit the vertices with the midpoint of their opposite sides.

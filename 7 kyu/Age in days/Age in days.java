@@ -2,7 +2,6 @@ import static java.time.LocalDate.now;
 import static java.time.LocalDate.of;
 import static java.time.temporal.ChronoUnit.DAYS;
 
-
 public class Kata {
   public static String ageInDays(int year, int month, int day) {
   

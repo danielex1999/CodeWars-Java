@@ -1,4 +1,6 @@
-# 8 Kyu
+# ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=black)<img src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" width="35px" alt="java" align="right">
+
+## 8 Kyu
 
 Kata Found realized
 
@@ -283,3 +285,99 @@ Kata Found realized
 - [Simple Fun #1: Seats in Theater](Simple-Fun-1_Seats-in-Theater)
 
 - [Simple multiplication](Simple-multiplication)
+
+- [Simple validation of a username with regex](Simple-validation-of-a-username-with-regex)
+
+- [Sleigh Authentication](Sleigh-Authentication)
+
+- [Smallest unused ID](Smallest-unused-ID)
+
+- [Sort My Textbooks](Sort-My-Textbooks)
+
+- [Sort and Star](Sort-and-Star)
+
+- [Square(n) Sum](Square_n-Sum)
+
+- [Squash the bugs](Squash-the-bugs)
+
+- [String Templates - Bug Fixing #5](String-Templates-Bug-Fixing-5)
+
+- [String repeat](String-repeat)
+
+- [Stringy Strings](Stringy-Strings)
+
+- [Subtract the Sum](Subtract-the-Sum)
+
+- [Sum Arrays](Sum-Arrays)
+
+- [Sum Mixed Array](Sum-Mixed-Array)
+
+- [Sum of Multiples](Sum-of-Multiples)
+
+- [Sum of differences in array](Sum-of-differences-in-array)
+
+- [Sum of positive](Sum-of-positive)
+
+- [Sum without highest and lowest number](Sum-without-highest-and-lowest-number)
+
+- [Surface Area and Volume of a Box](Surface-Area-and-Volume-of-a-Box)
+
+- [Swap Values](Swap-Values)
+
+- [Switch it Up!](Switch-it-Up)
+
+- [The Feast of Many Beasts](The-Feast-of-Many-Beasts)
+
+- [The Wide-Mouthed frog!](The-Wide-Mouthed-frog!)
+
+- [Thinkful - Logic Drills: Traffic light](Thinkful-Logic-Drills-Traffic-light)
+
+- [Thinkful - Number Drills: Blue and red marbles](Thinkful-Number-Drills-Blue-and-red-marbles)
+
+- [Thinkful - Number Drills: Pixelart planning](Thinkful-Number-Drills-Pixelart-planning)
+
+- [Third Angle of a Triangle](Third-Angle-of-a-Triangle)
+
+- [Tip Calculator](Tip-Calculator)
+
+- [To square(root) or not to square(root)](To-square(root)-or-not-to-square(root))
+
+- [Total amount of points](Total-amount-of-points)
+
+- [Training JS #7: if..else and ternary operator](Training-JS-7_if-else-and-ternary-operator)
+
+- [Transportation on vacation](Transportation-on-vacation)
+
+- [Triple Trouble](Triple-Trouble)
+
+- [Twice as old](Twice-as-old)
+
+- [Unfinished Loop - Bug Fixing #1](Unfinished-Loop-Bug-Fixing-1)
+
+- [Volume of a Cuboid](Volume-of-a-Cuboid)
+
+- [Welcome to the City](Welcome-to-the-City)
+
+- [Welcome!](Welcome!)
+
+- [Well of Ideas - Easy Version](Well-of-Ideas-Easy-Version)
+
+- [What is between?](What-is-between)
+
+- [Will there be enough space?](Will-there-be-enough-space)
+
+- [Will you make it?](Will-you-make-it)
+
+- [Wilson primes](Wilson-primes)
+
+- [You Can't Code Under Pressure #1](You-Can't-Code-Under-Pressure-1)
+
+- [You only need one - Beginner](You-only-need-one-Beginner)
+
+- [altERnaTIng cAsE <=> ALTerNAtiNG CaSe](altERnaTIng-cAsE_ALTerNAtiNG-CaSe)
+
+- [easy logs](Easy-logs)
+
+- [get character from ASCII Value](Get-character-from-ASCII-Value)
+
+- [repeatIt](RepeatIt)

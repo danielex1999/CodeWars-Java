@@ -4,7 +4,7 @@ Kata Found realized
 
 - ["this" is a problem](\this-is-a-problem)
 
-- [101 Dalmatians - squash the bugs, not the dogs!](\101-Dalmatians-squash-the-bugs-not-the-dogs)
+- [101 Dalmatians - squash the bugs, not the dogs!](/101-Dalmatians-squash-the-bugs-not-the-dogs)
 
 - [8kyu interpreters: HQ9+](\8kyu-interpreters_HQ9+)
 

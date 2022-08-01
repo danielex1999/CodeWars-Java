@@ -148,3 +148,138 @@ Kata Found realized
 
 - [Function 3 - multiplying two numbers](Function-3-multiplying-two-numbers)
 
+- [Get Nth Even Number](Get-Nth-Even-Number)
+
+- [Get the mean of an array](Get-the-mean-of-an-array)
+
+- [Ghost code?!](Ghost-code)
+
+- [Grasshopper - Array Mean](Grasshopper-Array-Mean)
+
+- [Grasshopper - Basic Function Fixer](Grasshopper-Basic-Function-Fixer)
+
+- [Grasshopper - Check for factor](Grasshopper-Check-for-factor)
+
+- [Grasshopper - Debug](Grasshopper-Debug)
+
+- [Grasshopper - Debug sayHello](Grasshopper-Debug-sayHello)
+
+- [Grasshopper - Grade book](Grasshopper-Grade-book)
+
+- [Grasshopper - Messi Goals](Grasshopper-Messi-Goals)
+
+- [Grasshopper - Messi goals function](Grasshopper-Messi-goals-function)
+
+- [Grasshopper - Personalized Message](Grasshopper-Personalized-Message)
+
+- [Grasshopper - Summation](Grasshopper-Summation)
+
+- [Grasshopper - Terminal game move function](Grasshopper-Terminal-game-move-function)
+
+- [Gravity Flip](Gravity-Flip)
+
+- [Hex to Decimal](Hex-to-Decimal)
+
+- [Holiday VIII - Duty Free](Holiday-VIII-Duty-Free)
+
+- [How do I compare numbers?](How-do-I-compare-numbers)
+
+- [How good are you really?](How-good-are-you-really)
+
+- [How many stairs will Suzuki climb in 20 years?](How-many-stairs-will-Suzuki-climb-in-20-years)
+
+- [How old will I be in 2099?](How-old-will-I-be-in-2099)
+
+- [I love you, a little , a lot, passionately ... not at all](I-love-you-a-little-a-lot-passionately-not-at-all)
+
+- [If you can't sleep, just count sheep!!](If-you-can't-sleep-just-count-sheep!!)
+
+- [Invert values](Invert-values)
+
+- [Is it a number?](Is-it-a-number)
+
+- [Is it even?](Is-it-even)
+
+- [Is n divisible by x and y?](Is-n-divisible-by-x-and-y)
+
+- [Jenny's secret message](Jenny's-secret-message)
+
+- [Kata Example Twist](Kata-Example-Twist)
+
+- [Keep Hydrated!](Keep-Hydrated!)
+
+- [Keep up the hoop](Keep-up-the-hoop)
+
+- [L1: Set Alarm](L1_Set-Alarm)
+
+- [Lario and Muigi Pipe Problem](Lario-and-Muigi-Pipe-Problem)
+
+- [Leonardo Dicaprio and Oscars](Leonardo-Dicaprio-and-Oscars)
+
+- [Localize The Barycenter of a Triangle](Localize-The-Barycenter-of-a-Triangle)
+
+- [MakeUpperCase](MakeUpperCase)
+
+- [Merging sorted integer arrays (without duplicates)](Merging-sorted-integer-arrays-without-duplicates)
+
+- [Miles per gallon to kilometers per liter](Miles-per-gallon-to-kilometers-per-liter)
+
+- [Multiple of index](Multiple-of-index)
+
+- [Multiplication table for number](Multiplication-table-for-number)
+
+- [Multiply](Multiply)
+
+- [My head is at the wrong end!](My-head-is-at-the-wrong-end)
+
+- [N-th Power](N-th-Power)
+
+- [No zeros for heros](No-zeros-for-heros)
+
+- [Opposite number](Opposite-number)
+
+- [Opposites Attract](Opposites-Attract)
+
+- [Parse nice int from char problem](Parse-nice-int-from-char-problem)
+
+- [Playing with cubes I](Playing-with-cubes-I)
+
+- [Plural](Plural)
+
+- [Points of Reflection](Points-of-Reflection)
+
+- [Powers of 2](Powers-of-2)
+
+- [Printing Array elements with Comma delimiters](Printing-Array-elements-with-Comma-delimiters)
+
+- [Push a hash/an object into array](Push-a-hash-or-an-object-into-array)
+
+- [Pythagorean Triple](Pythagorean-Triple)
+
+- [Quarter of the year](Quarter-of-the-year)
+
+- [Regexp Basics - is it a digit?](Regexp-Basics-is-it-a-digit)
+
+- [Remove First and Last Character](Remove-First-and-Last-Character)
+
+- [Remove String Spaces](Remove-String-Spaces)
+
+- [Remove exclamation marks](Remove-exclamation-marks)
+
+- [Return Negative](Return-Negative)
+
+- [Returning Strings](Returning-Strings)
+
+- [Reversed Strings](Reversed-Strings)
+
+- [Reversed Words](Reversed-Words)
+
+- [Reversed sequence](Reversed-Sequence)
+
+- [Rock Paper Scissors!](Rock-Paper-Scissors)
+
+- [Sentence Smash](Sentence-Smash)
+
+- [Simple Fun #1: Seats in Theater](Simple-Fun-1_Seats-in-Theater)
+
+- [Simple multiplication](Simple-multiplication)

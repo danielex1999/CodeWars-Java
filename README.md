@@ -3,11 +3,11 @@
 ![](https://www.codewars.com/users/danielex1999/badges/large)<br><br>
 <img src="https://img.shields.io/badge/Language-Java-28C8E5.svg">
 <img src="https://img.shields.io/github/last-commit/danielex1999/Codewars-Java?color=1B3E8E"><br><br>
-<img src="https://img.shields.io/github/directory-file-count/danielex1999/CodeWars-Java/8%20kyu?color=E6E6E6&label=8%20kyu">
-<img src="https://img.shields.io/github/directory-file-count/danielex1999/CodeWars-Java/7%20kyu?color=E6E6E6&label=7%20kyu">
-<img src="https://img.shields.io/github/directory-file-count/danielex1999/CodeWars-Java/6%20kyu?color=ECB613&label=6%20kyu">
-<img src="https://img.shields.io/github/directory-file-count/danielex1999/CodeWars-Java/5%20kyu?color=ECB613&label=5%20kyu"><br>
-<img src="https://img.shields.io/github/directory-file-count/danielex1999/CodeWars-Java/4%20kyu?color=3C7DBA&label=4%20kyu">
+<img src="https://img.shields.io/github/directory-file-count/danielex1999/codewars-java/8%20kyu?color=E6E6E6&label=8%20kyu&type=dir">
+<img src="https://img.shields.io/github/directory-file-count/danielex1999/CodeWars-Java/7%20kyu?color=E6E6E6&label=7%20kyu&type=dir">
+<img src="https://img.shields.io/github/directory-file-count/danielex1999/CodeWars-Java/6%20kyu?color=ECB613&label=6%20kyu&type=dir">
+<img src="https://img.shields.io/github/directory-file-count/danielex1999/CodeWars-Java/5%20kyu?color=ECB613&label=5%20kyu&type=dir"><br>
+<img src="https://img.shields.io/github/directory-file-count/danielex1999/CodeWars-Java/4%20kyu?color=3C7DBA&label=4%20kyu&type=dir">
 <img src="https://img.shields.io/badge/3%20kyu-0-3C7DBA">
 <img src="https://img.shields.io/badge/2%20kyu-0-866CC7">
 <img src="https://img.shields.io/badge/1%20kyu-0-866CC7"><br><br>

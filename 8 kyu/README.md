@@ -270,6 +270,8 @@ Kata Found realized
 
 - [Return Negative](Return-Negative)
 
+- [Return the day](Return-the-day)
+
 - [Returning Strings](Returning-Strings)
 
 - [Reversed Strings](Reversed-Strings)

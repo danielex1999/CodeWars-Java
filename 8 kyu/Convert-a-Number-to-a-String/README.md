@@ -6,7 +6,7 @@ What ways of achieving this do you know?
 
 **Examples:**
 
-```
+```java
 123 --> "123"
 999 --> "999"
 ```

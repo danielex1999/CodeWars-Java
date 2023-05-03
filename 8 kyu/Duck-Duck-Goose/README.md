@@ -11,7 +11,7 @@ Given an array of Player objects (an array of associative arrays in PHP) and an 
 
 Example:
 
-```
+```java
 duck_duck_goose([a, b, c, d], 1) should return a.name
 duck_duck_goose([a, b, c, d], 5) should return a.name
 duck_duck_goose([a, b, c, d], 4) should return d.name

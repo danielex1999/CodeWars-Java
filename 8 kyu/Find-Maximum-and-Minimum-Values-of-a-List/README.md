@@ -4,7 +4,7 @@ Your task is to make two functions, ```max``` and ```min``` (`maximum` and `mini
 
 ## Examples
 
-```
+```java
 max({4,6,2,1,9,63,-134,566}) returns 566
 min({-52, 56, 30, 29, -54, 0, -110}) returns -110
 max({5}) returns 5

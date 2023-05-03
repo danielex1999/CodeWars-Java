@@ -5,7 +5,7 @@ You are given a method called ```main```, make it print the line ```Hello World!
 Note that for some languages, the function ```main``` is the entry point of the program.
 
 Here's how it will be tested:
-```
+```java
     java Solution.class parameter1 parameter2
 ```
 Hints:

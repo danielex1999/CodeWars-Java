@@ -6,7 +6,7 @@ Your task is to write a function which returns the time since midnight in millis
 
 **Example:**
 
-```
+```java
 h = 0
 m = 1
 s = 1

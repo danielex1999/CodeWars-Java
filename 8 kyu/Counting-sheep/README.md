@@ -4,7 +4,7 @@ Consider an array of sheep where some sheep may be missing from their place. We 
 
 For example,
 
-```
+```java
  [true,  true,  true,  false,
   true,  true,  true,  true ,
   true,  false, true,  false,

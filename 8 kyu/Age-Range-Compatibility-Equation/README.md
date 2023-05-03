@@ -10,7 +10,7 @@ Given an integer (1 <= n <= 100) representing a person's age, return their minim
 
 This equation doesn't work when the age <= 14, so use this equation instead:
 
-```
+```java
 min = age - 0.10 * age
 max = age + 0.10 * age
 ```
@@ -19,7 +19,7 @@ You should floor all your answers so that an integer is given instead of a float
 
 ##Examples:
 
-```
+```java
 age = 27   =>   20-40
 age = 5    =>   4-5
 age = 17   =>   15-20

@@ -2,7 +2,7 @@
 
 Return the Nth Even Number
 
-```
+```java
 nthEven(1) //=> 0, the first even number is 0
 nthEven(3) //=> 4, the 3rd even number is 4 (0, 2, 4)
 

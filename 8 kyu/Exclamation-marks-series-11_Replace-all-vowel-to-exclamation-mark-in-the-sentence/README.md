@@ -6,7 +6,7 @@
 
 **Examples**
 
-```
+```java
 replace("Hi!") === "H!!"
 replace("!Hi! Hi!") === "!H!! H!!"
 replace("aeiou") === "!!!!!"

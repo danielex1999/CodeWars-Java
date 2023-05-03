@@ -10,7 +10,7 @@ If no occurrences can be found, a count of 0 should be returned.
 
 Example (**Inputs** --> **Output**)
 
-```
+```java
 "Hello", 'o' => 1
 "Hello", 'l' => 2
 "", 'z'      => 0

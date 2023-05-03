@@ -11,7 +11,7 @@ and returns <b>true</b> if the function in the params returns true for every ele
 
 <b>Example</b>
 
-```
+```java
 all((1, 2, 3, 4, 5), greater_than_9) -> false
 all((1, 2, 3, 4, 5), less_than_9)    -> True
 ```

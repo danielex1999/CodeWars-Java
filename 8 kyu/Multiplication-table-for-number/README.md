@@ -2,7 +2,7 @@ Your goal is to return multiplication table for ```number``` that is always an i
 
 For example, a multiplication table (string) for ```number == 5``` looks like below:
 
-```
+```java
 1 * 5 = 5
 2 * 5 = 10
 3 * 5 = 15
@@ -15,7 +15,7 @@ For example, a multiplication table (string) for ```number == 5``` looks like be
 10 * 5 = 50
 ```
 
-```
+```java
 P. S. You can use ```\n``` in string to jump to the next line.
 ```
 

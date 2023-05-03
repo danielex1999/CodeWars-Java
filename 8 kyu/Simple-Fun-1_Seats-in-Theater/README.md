@@ -9,7 +9,7 @@ Your friend advised you to see a new performance in the most popular theater in 
 
  For nCols = 16, nRows = 11, col = 5 and row = 3, the output should be
 
-```
+```java
 Kata.seatsInTheater(nCols, nRows, col, row) == 96
 ```
 

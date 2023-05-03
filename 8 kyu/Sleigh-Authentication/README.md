@@ -4,7 +4,7 @@ Your task is to implement the `authenticate()` method of the sleigh, which takes
 
 Examples:
 
-```
+```java
 sleigh.authenticate("Santa Claus", "Ho Ho Ho!") # must return True
 sleigh.authenticate("Santa', 'Ho Ho Ho!") # must return False
 sleigh.authenticate("Santa Claus", "Ho Ho!") # must return False

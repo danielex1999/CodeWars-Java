@@ -5,11 +5,9 @@ A pythagorean triple is formed when:
 
 where `c` is the largest value of `a, b, c`.
 
-
 For example: ```a = 3, b = 4, c = 5```
-forms a pythagorean triple, because 
+forms a pythagorean triple, because
 5<sup>2</sup> = 3<sup>2</sup> + 4<sup>2</sup>
-
 
 ## Return Values
 

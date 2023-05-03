@@ -1,7 +1,7 @@
 # Leonardo Dicaprio and Oscars
 
 You have to write a function that describe Leo:
-```
+```java
 def leo(oscar):
   pass
 ```

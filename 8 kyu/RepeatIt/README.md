@@ -4,10 +4,9 @@ The function should return a string that repeats the input string `n` number of 
 
 If anything other than a string is passed in you should return `"Not a string"`
 
-
 ## Example
 
-```
-"Hi", 2 --> "HiHi"
-1234, 5 --> "Not a string"
+```java
+"Hi",2-->"HiHi"
+        1234,5-->"Not a string"
 ```

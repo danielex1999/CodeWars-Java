@@ -2,7 +2,7 @@ Write a method `smash` that takes an array of words and smashes them together in
 
 ## Example
 
-```
+```java
 var words = ['hello', 'world', 'this', 'is', 'great'];
 smash(words); // returns "hello world this is great"
 ```

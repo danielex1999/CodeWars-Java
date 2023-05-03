@@ -8,7 +8,7 @@ If the input is 'Q', return the input
 
 If the input is '9', return the full lyrics of 99 Bottles of Beer. It should be formatted like this:
 
-```
+```java
 99 bottles of beer on the wall, 99 bottles of beer.
 Take one down and pass it around, 98 bottles of beer on the wall.
 98 bottles of beer on the wall, 98 bottles of beer.

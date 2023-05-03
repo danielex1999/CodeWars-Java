@@ -7,7 +7,7 @@ Your friend is traveling abroad to the United States so he wrote a program to co
 Find the errors in the code to get the celsius converter working properly.
 
 To convert fahrenheit to celsius:
-```
+```java
 celsius = (fahrenheit - 32) * (5/9)
 ```
 

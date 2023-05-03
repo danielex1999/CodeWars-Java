@@ -19,7 +19,7 @@ There are some columns of toy cubes in the box arranged in a line. The ```i```-t
 Given the initial configuration of the cubes in the box, find out how many cubes are in each of the n columns after Bob switches the gravity.
 
 Examples:
-```
+```java
 flip('R', { 3, 2, 1, 2 })     =>  { 1, 2, 2, 3 }
 flip('L', { 1, 4, 5, 3, 5 })  =>  { 5, 5, 4, 3, 1 }
 ```

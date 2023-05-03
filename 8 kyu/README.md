@@ -49,7 +49,7 @@ Kata Found realized
 - [Beginner Series #2 Clock](Beginner-Series-2-Clock)
 
 - [Beginner Series #4 Cockroach](Beginner-Series-4-Cockroach)
-- 
+
 - [Bin to Decimal](Bin-to-Decimal)
 
 - [Calculate BMI](Calculate-BMI)

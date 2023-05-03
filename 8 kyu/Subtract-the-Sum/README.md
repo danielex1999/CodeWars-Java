@@ -23,7 +23,7 @@ There is no preloaded code to help you.
 _This is not about coding skills; think before you code_
 
 
-```
+```java
 1-kiwi
 2-pear
 3-kiwi

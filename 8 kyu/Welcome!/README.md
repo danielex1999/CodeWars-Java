@@ -5,7 +5,7 @@ Your start-up's BA has told marketing that your website has a large audience in 
 - Write a 'welcome' function that takes a parameter 'language' (always a string), and returns a greeting - if you have it in your database. It should default to English if the language is not in the database, or in the event of an invalid input.
 
 ### The Database
-``` 
+``` java
 english: "Welcome",
 czech: "Vitejte",
 danish: "Velkomst",
@@ -26,7 +26,7 @@ welsh: "Croeso"
 ```
 
 Possible invalid inputs include:
-~~~~
+~~~~java
 IP_ADDRESS_INVALID - not a valid ipv4 or ipv6 ip address
 IP_ADDRESS_NOT_FOUND - ip address not in the database
 IP_ADDRESS_REQUIRED - no ip address was supplied

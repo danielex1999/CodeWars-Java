@@ -4,7 +4,7 @@ We want to create a constructor function 'NameMe', which takes first name and la
 
 We already implemented that function, but when we actually run the code, the "name" property is accessible, but the "firstName" and "lastName" is not accessible. All the properties should be accessible. Can you find what's wrong with it? A test fixture is also available
 
-```
+```java
 public class NameMe {
     private String firstName;
     private String lastName;

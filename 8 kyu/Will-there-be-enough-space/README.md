@@ -12,7 +12,7 @@ If there is enough space, return 0, and if there isn't, return the number of pas
 
 <h1>Usage Examples:</h1>
 
-```
+```java
 enough(10, 5, 5);
 // 0, He can fit all 5 passengers
 enough(100, 60, 50);

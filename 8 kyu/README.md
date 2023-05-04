@@ -202,6 +202,8 @@ Kata Found realized
 
 - [Invert values](Invert-values)
 
+- [Is he gonna survive?](Is-he-gonna-survive)
+
 - [Is it a number?](Is-it-a-number)
 
 - [Is it even?](Is-it-even)

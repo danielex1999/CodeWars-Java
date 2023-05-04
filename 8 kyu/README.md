@@ -86,6 +86,8 @@ Kata Found realized
 
 - [Count Odd Numbers below n](Count-Odd-Numbers-below-n)
 
+- [Count by X](Count-by-x)
+
 - [Count of positives / sum of negatives](Count-of-positives-sum-of-negatives)
 
 - [Count the Monkeys!](Count-the-Monkeys)

@@ -266,8 +266,6 @@ Kata Found realized
 
 - [Quadrants](Quadrants)
 
-- [Remove the time](Remove-the-time)
-
 - [Quarter of the year](Quarter-of-the-year)
 
 - [Regexp Basics - is it a digit?](Regexp-Basics-is-it-a-digit)
@@ -277,6 +275,8 @@ Kata Found realized
 - [Remove String Spaces](Remove-String-Spaces)
 
 - [Remove exclamation marks](Remove-exclamation-marks)
+
+- [Remove the time](Remove-the-time)
 
 - [Return Negative](Return-Negative)
 

@@ -264,6 +264,10 @@ Kata Found realized
 
 - [Pythagorean Triple](Pythagorean-Triple)
 
+- [Quadrants](Quadrants)
+
+- [Remove the time](Remove-the-time)
+
 - [Quarter of the year](Quarter-of-the-year)
 
 - [Regexp Basics - is it a digit?](Regexp-Basics-is-it-a-digit)

@@ -2,7 +2,9 @@
 
 The odd and even numbers are fighting against each other!
 
-You are given a list of positive integers. The odd numbers from the list will fight using their `1` bits from their binary representation, while the even numbers will fight using their `0` bits. If present in the list, number `0`-  will be neutral, hence not fight for either side.
+You are given a list of positive integers. The odd numbers from the list will fight using their `1` bits from their
+binary representation, while the even numbers will fight using their `0` bits. If present in the list, number `0`- will
+be neutral, hence not fight for either side.
 
 You should return:
 
@@ -10,7 +12,8 @@ You should return:
 - `evens win` if number of `1`s from odd numbers is smaller than `0`s from even numbers
 - `tie` if equal, including if list is empty
 
-Please note that any prefix that might appear in the binary representation, e.g. `0b`, should not be counted towards the battle.
+Please note that any prefix that might appear in the binary representation, e.g. `0b`, should not be counted towards the
+battle.
 
 **Example:**
 

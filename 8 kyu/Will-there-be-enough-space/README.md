@@ -3,10 +3,11 @@ Bob is working as a bus driver. However, he has become extremely popular amongst
 
 <h1>Task Overview:</h1>
 
-You have to write a function that accepts three parameters: 
+You have to write a function that accepts three parameters:
+
 * `cap` is the amount of people the bus can hold excluding the driver.
 * `on` is the number of people on the bus.
-* `wait` is the number of people waiting to get on to the bus. 
+* `wait` is the number of people waiting to get on to the bus.
 
 If there is enough space, return 0, and if there isn't, return the number of passengers he can't take.
 

@@ -1,3 +1,3 @@
 public class ToString {
-  public static final String a = String.valueOf(123);
+    public static final String a = String.valueOf(123);
 }

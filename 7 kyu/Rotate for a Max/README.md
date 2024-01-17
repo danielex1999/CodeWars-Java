@@ -8,7 +8,8 @@ Keep the first digit in place and rotate left the other digits: `68957`.
 
 Keep the first two digits in place and rotate the other ones: `68579`.
 
-Keep the first three digits and rotate left the rest: `68597`. Now it is over since keeping the first four it remains only one digit which rotated is itself.
+Keep the first three digits and rotate left the rest: `68597`. Now it is over since keeping the first four it remains
+only one digit which rotated is itself.
 
 You have the following sequence of numbers:
 
@@ -17,8 +18,9 @@ You have the following sequence of numbers:
 and you must return the greatest: `68957`.
 
 <b>Task</b>
-  
-Write `function max_rot(n)` which given a positive integer `n` returns the maximum number you got doing rotations similar to the above example.
+
+Write `function max_rot(n)` which given a positive integer `n` returns the maximum number you got doing rotations
+similar to the above example.
 
 So `max_rot` (or `maxRot` or ... depending on the language) is such as:
 

@@ -2,9 +2,11 @@
 
 Robinson Crusoe decides to explore his isle. On a sheet of paper he plans the following process.
 
-His hut has coordinates `origin = [0, 0]`. From that origin he walks a given distance `d` on a line that has a given angle `ang` with the x-axis. He gets to a point A. (Angles are measured with respect to the x-axis)
+His hut has coordinates `origin = [0, 0]`. From that origin he walks a given distance `d` on a line that has a given
+angle `ang` with the x-axis. He gets to a point A. (Angles are measured with respect to the x-axis)
 
-From that point A he walks the distance `d` multiplied by a constant `distmult` on a line that has the angle `ang` multiplied by a constant `angmult` and so on and on.
+From that point A he walks the distance `d` multiplied by a constant `distmult` on a line that has the angle `ang`
+multiplied by a constant `angmult` and so on and on.
 
 We have `d0 = d`, `ang0 = ang`; then `d1 = d * distmult`, `ang1 = ang * angmult` etc ...
 
@@ -29,10 +31,12 @@ The successive `x` are : `0.0, 0.173205, 0.344294, 0.511991, 0.674744, 0.830674`
 The successive `y` are : `0.0, 0.1, 0.211106, 0.334292, 0.47052, 0.620695` (approximately)
 
 and
+
 ```
 lastx: 0.8306737544381833
 lasty: 0.620694691344071
 ```
+
 <b>A drawing:</b>
 
 ![](https://i.imgur.com/SGHbb6Vl.png)
@@ -43,5 +47,5 @@ Successive points:
 - y: `0.0, 0.2588..., 0.7588..., 1.6248..., 2.4908...`
 
 <b>Note</b>
-  
+
 Please could you ask before translating?

@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 public class DivSeven {
     public static long[] seven(long m) {
         int cnt = 0;
@@ -8,6 +6,6 @@ public class DivSeven {
             m = (m - a0) / 10 - 2 * a0;
             cnt++;
         }
-        return new long[] {m, cnt};
+        return new long[]{m, cnt};
     }
 }

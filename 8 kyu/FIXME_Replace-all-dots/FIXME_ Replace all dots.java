@@ -1,5 +1,5 @@
 public class Dinglemouse {
-  public static String replaceDots(String str) {
-    return str.replace(".", "-");
-  }
+    public static String replaceDots(String str) {
+        return str.replace(".", "-");
+    }
 }

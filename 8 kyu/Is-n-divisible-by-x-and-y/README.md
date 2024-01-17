@@ -1,6 +1,7 @@
 # Is n divisible by x and y?
 
-Create a function `isDivisible(n, x, y)` that checks if a number `n` is divisible by two numbers `x` **AND** `y`. All inputs are positive, non-zero digits.
+Create a function `isDivisible(n, x, y)` that checks if a number `n` is divisible by two numbers `x` **AND** `y`. All
+inputs are positive, non-zero digits.
 
 ```java
 Example:

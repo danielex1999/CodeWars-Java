@@ -19,6 +19,6 @@ For example, a multiplication table (string) for ```number == 5``` looks like be
 P. S. You can use ```\n``` in string to jump to the next line.
 ```
 
-Note: newlines should be added between 
+Note: newlines should be added between
 
 rows, but there should be no trailing newline at the end.

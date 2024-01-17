@@ -13,6 +13,7 @@ s = 1
 
 result = 61000
 ```
+
 Input constraints:
 
 - ```0 <= h <= 23```

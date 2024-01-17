@@ -4,7 +4,8 @@ All we eat is water and dry matter.
 
 John bought potatoes: their weight is 100 kilograms. Potatoes contain water and dry matter.
 
-The water content is 99 percent of the total weight. He thinks they are too wet and puts them in an oven - at low temperature - for them to lose some water.
+The water content is 99 percent of the total weight. He thinks they are too wet and puts them in an oven - at low
+temperature - for them to lose some water.
 
 At the output the water content is only 98%.
 

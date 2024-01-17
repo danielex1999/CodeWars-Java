@@ -1,12 +1,14 @@
 # Interval
 
 Given an array of numbers and string which can be in form:
+
 ```
 "[a,b]"
 "(a,b]"
 "[a,b)"
 "(a,b)"
 ```
+
 ![](https://i.postimg.cc/02vmbh3j/Interval.jpg)
 
 More about [intervals](https://en.wikipedia.org/wiki/Interval_(mathematics)).

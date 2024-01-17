@@ -29,7 +29,6 @@ There are four quadrants:
 3. Third quadrant, the quadrant in the bottom-left, contains all points with negative X and Y
 4. Fourth quadrant, the quadrant in the bottom-right, contains all points with positive X, but negative Y
 
-
 More on quadrants: [Quadrant (plane geometry) - Wikipedia](https://en.wikipedia.org/wiki/Quadrant_(plane_geometry))
 
 **Task Series**

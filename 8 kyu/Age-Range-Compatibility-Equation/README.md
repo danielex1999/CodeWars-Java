@@ -1,6 +1,7 @@
 # Age Range Compatibility Equation
 
-Everybody knows the classic "half your age plus seven" dating rule that a lot of people follow (including myself). It's the 'recommended' age range in which to date someone.
+Everybody knows the classic "half your age plus seven" dating rule that a lot of people follow (including myself). It's
+the 'recommended' age range in which to date someone.
 
 <img src="https://user-images.githubusercontent.com/69739890/118407770-c771f680-b647-11eb-8202-202aeb02c545.png"/>
 
@@ -15,7 +16,8 @@ min = age - 0.10 * age
 max = age + 0.10 * age
 ```
 
-You should floor all your answers so that an integer is given instead of a float (which doesn't represent age). Return your answer in the form [min]-[max]
+You should floor all your answers so that an integer is given instead of a float (which doesn't represent age). Return
+your answer in the form [min]-[max]
 
 ##Examples:
 

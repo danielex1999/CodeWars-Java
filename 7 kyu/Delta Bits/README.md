@@ -1,4 +1,5 @@
-Complete the function to determine the number of bits required to convert integer ```A``` to integer ```B``` (where ```A``` and ```B``` >= 0)
+Complete the function to determine the number of bits required to convert integer ```A``` to integer ```B``` (
+where ```A``` and ```B``` >= 0)
 
 The upper limit for ```A``` and ```B``` is 2^16, ```int.MaxValue``` or similar.
 

@@ -1,6 +1,7 @@
 # Sum of odd numbers
 
 Given the triangle of consecutive odd numbers:
+
 ```
              1
           3     5
@@ -9,7 +10,9 @@ Given the triangle of consecutive odd numbers:
 21    23    25    27    29
 ...
 ```
+
 Calculate the sum of the numbers in the nth row of this triangle (starting at index 1) e.g.: <b>(Input --> Output)</b>
+
 ```
 1 -->  1
 2 --> 3 + 5 = 8

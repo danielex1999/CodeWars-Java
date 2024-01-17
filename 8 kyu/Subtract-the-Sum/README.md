@@ -1,11 +1,13 @@
 <span style="color:red">_NOTE! This kata can be more difficult than regular 8-kyu katas_</span>
 
-Complete the function which get an input number `n` such that `n >= 10` and `n < 10000`, then:    
-1. Sum all the digits of `n`.    
-2. Subtract the sum from `n`, and it is your new `n`.    
-3. If the new `n` is in the list below return the associated fruit, otherwise return back to task 1.    
+Complete the function which get an input number `n` such that `n >= 10` and `n < 10000`, then:
+
+1. Sum all the digits of `n`.
+2. Subtract the sum from `n`, and it is your new `n`.
+3. If the new `n` is in the list below return the associated fruit, otherwise return back to task 1.
 
 ### Example
+
 n = 325   
 sum = 3+2+5 = 10   
 n = 325-10 = 315 (not in the list)    
@@ -18,10 +20,8 @@ n =306-9 = 297 (not in the list)
 .   
 ...until you find the first n in the list below.
 
-
 There is no preloaded code to help you.
 _This is not about coding skills; think before you code_
-
 
 ```java
 1-kiwi

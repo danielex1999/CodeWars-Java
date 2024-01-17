@@ -80,9 +80,8 @@ Look at result of testcase, guess the code!
 
 35:Safe position
 
-
-
 <b>#Special recommendation</b>
+
 ```
 Another series, innovative and interesting, medium difficulty. People who like to challenge, can try these kata:
 

@@ -1,6 +1,6 @@
-class Solution{
-    public static int solve(String s){
-        int result=0;
+class Solution {
+    public static int solve(String s) {
+        int result = 0;
         String first = s.replaceAll("[\\D]", " ");
         String[] second = first.split(" ");
 

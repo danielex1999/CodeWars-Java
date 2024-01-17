@@ -2,7 +2,7 @@ public class God {
     public static Human[] create() {
         Human Adam = new Man();
         Human Eve = new Woman();
-        return new Human[] { Adam, Eve };
+        return new Human[]{Adam, Eve};
     }
 }
 

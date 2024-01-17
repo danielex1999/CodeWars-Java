@@ -2,7 +2,8 @@
 
 **Introduction**
 
-The first century spans from the **year 1** up to and **including the year 100, The second** - from the year 101 up to and including the year 200, etc.
+The first century spans from the **year 1** up to and **including the year 100, The second** - from the year 101 up to
+and including the year 200, etc.
 
 **Task :**
 Given a year, return the century it is in.
@@ -15,6 +16,7 @@ Given a year, return the century it is in.
 1601 --> 17
 2000 --> 20
 ```
+
 Hope you enjoy it .. Awaiting for Best Practice Codes
 
 Enjoy Learning !!!

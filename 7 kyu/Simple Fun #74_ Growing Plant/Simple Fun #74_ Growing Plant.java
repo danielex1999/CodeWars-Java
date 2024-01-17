@@ -5,11 +5,11 @@ public class SimpleFun {
         int afterday = 0;
         int afternight = 0;
 
-            while (afterday < desiredHeight) {
-                afterday = upSpeed + afternight;
-                afternight = afterday - downSpeed;
-                days++;
-            }
+        while (afterday < desiredHeight) {
+            afterday = upSpeed + afternight;
+            afternight = afterday - downSpeed;
+            days++;
+        }
 
         return days;
     }

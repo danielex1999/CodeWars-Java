@@ -6,9 +6,9 @@ public class Polygon {
         this.sides = sides;
         this.sideLength = sideLength;
     }
-    
-    public double circleDiameter(){
+
+    public double circleDiameter() {
         return (sideLength / 2.0) / Math.tan(Math.PI / sides) * 2.0;
     }
-    
+
 }

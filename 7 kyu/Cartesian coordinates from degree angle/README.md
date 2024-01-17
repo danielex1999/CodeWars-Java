@@ -1,4 +1,6 @@
-Write a simple function that takes polar coordinates (an angle in degrees and a radius) and returns the equivalent cartesian coordinates (rounded to 10 places).
+Write a simple function that takes polar coordinates (an angle in degrees and a radius) and returns the equivalent
+cartesian coordinates (rounded to 10 places).
+
 ```
 For example:
 

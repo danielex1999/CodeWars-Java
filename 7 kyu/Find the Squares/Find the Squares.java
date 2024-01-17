@@ -1,4 +1,5 @@
 import java.text.DecimalFormat;
+
 public class Solution {
 
     public static String findSquares(int n) {

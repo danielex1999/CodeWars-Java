@@ -5,6 +5,7 @@ The code provided has a method `plus100` which is supposed to return the number 
 But it's not working properly.
 
 # Task
+
 Fix the code so we can all go home early.
 
 ## Restrictions

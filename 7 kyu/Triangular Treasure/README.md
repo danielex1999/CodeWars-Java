@@ -1,6 +1,7 @@
 # Triangular Treasure
 
-Triangular numbers are so called because of the equilateral triangular shape that they occupy when laid out as dots. i.e.
+Triangular numbers are so called because of the equilateral triangular shape that they occupy when laid out as dots.
+i.e.
 
 ```
 1st (1)   2nd (3)    3rd (6)
@@ -8,6 +9,7 @@ Triangular numbers are so called because of the equilateral triangular shape tha
            *         **
                      *
 ```
+
 You need to return the nth triangular number. You should return 0 for out of range values:
 
 For example: <b>(Input --> Output)</b>

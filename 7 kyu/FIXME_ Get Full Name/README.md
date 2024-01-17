@@ -11,5 +11,5 @@ But it's not working properly.
 The first and/or last names are never null, but may be empty.
 
 <b>Task</b>
-  
+
 Fix the bug so we can all go home early.

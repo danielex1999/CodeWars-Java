@@ -5,7 +5,7 @@ Your job is to find the gravitational force between two spherical objects (obj1 
 input
 ====
 
-Two arrays are give : 
+Two arrays are give :
 
 - arr_val (value array), consists of 3 elements
     - 1st element : mass of obj 1
@@ -16,15 +16,15 @@ Two arrays are give :
     - 2nd element : unit for mass of obj 2
     - 3rd element : unit for distance between their centers
 
-mass units are : 
-    
+mass units are :
+
 - kilogram (kg)
 - gram (g)
 - milligram (mg)
 - microgram (?g)
 - pound (lb)
 
-distance units are : 
+distance units are :
 
 - meter (m)
 - centimeter (cm)
@@ -36,7 +36,7 @@ Note
 ====
 
 
-value of G = 6.67 x 10<sup>-11</sup>N.kg<sup>�2</sup>.m<sup>2<sup> 
+value of G = 6.67 x 10<sup>-11</sup>N.kg<sup>�2</sup>.m<sup>2<sup>
 
 1ft = 0.3048m
 

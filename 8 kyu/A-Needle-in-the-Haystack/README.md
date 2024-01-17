@@ -11,4 +11,5 @@ After your function finds the needle it should return a message (as a string) th
 ```java
 findNeedle(new Object[] {"hay", "junk", "hay", "hay", "moreJunk", "needle", "randomJunk"})
 ```
+
 should return ```"found the needle at position 5"```

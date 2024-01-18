@@ -6,3 +6,4 @@ public class Geometry {
         return Precision.round(result, 2);
     }
 }
+

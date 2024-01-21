@@ -6,6 +6,8 @@ Kata Found realized
 
 - ["this" is a problem](thisIsAProblem)
 
+- [101 Dalmatians - squash the bugs, not the dogs!](dalmatians101SquashTheBugs)
+
 - [Find Nearest square number](findNearestSquareNumber)
 
 

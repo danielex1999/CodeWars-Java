@@ -32,9 +32,7 @@ the content and community.
 
  
 </div>
-<img align='left' src='https://www.ffbegif.com/Rain%20&%20Fina%20(NV)/100032707%20Win%20Before.gif' width='20%'>  
-<img align='right' src='https://www.ffbegif.com/Dark%20Fina%20&%20Sol%20(NV)/100033007%20Win.gif' width='20%'> 
-<br><br><br><br><br><br><br><br><br>
+
 
 > [!NOTE]
 > The following technologies are being used for this project.
@@ -42,3 +40,7 @@ the content and community.
 <code><img src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" width="30px" alt="java"></code>
 <code><img src="https://junit.org/junit5/assets/img/junit5-logo.png" width="25px" alt="java"></code>
 <code><a href="" target="_blank"><img src="src/main/resources/img/IntelliJ.png" width="26px" alt="selenium"></a></code>
+
+<img align='left' src='https://www.ffbegif.com/Rain%20&%20Fina%20(NV)/100032707%20Win%20Before.gif' width='20%'>  
+<img align='right' src='https://www.ffbegif.com/Dark%20Fina%20&%20Sol%20(NV)/100033007%20Win.gif' width='20%'> 
+

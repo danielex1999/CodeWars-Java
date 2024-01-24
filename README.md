@@ -7,7 +7,8 @@
 )<br><br>
 [![kyu-8](https://img.shields.io/github/directory-file-count/danielex1999/CodeWars-Java/src%2Fmain%2Fjava%2Fkyu8?type=dir&style=flat-square&logo=codewars&logoColor=%23B1361E&label=8%20kyu&labelColor=%23303133&color=%23E6E6E6
 )](./src/main/java/kyu8/)
-[![kyu-7](https://img.shields.io/github/directory-file-count/danielex1999/CodeWars-Java/7%20kyu?color=E6E6E6&label=7%20kyu&type=dir)](./7%20kyu/README.md)
+[![kyu-7](https://img.shields.io/github/directory-file-count/danielex1999/CodeWars-Java/src%2Fmain%2Fjava%2Fkyu7?type=dir&style=flat-square&logo=codewars&logoColor=%23B1361E&label=8%20kyu&labelColor=%23303133&color=%23E6E6E6
+)](./7%20kyu/README.md)
 <img src="https://img.shields.io/github/directory-file-count/danielex1999/CodeWars-Java/6%20kyu?color=ECB613&label=6%20kyu&type=dir">
 <img src="https://img.shields.io/github/directory-file-count/danielex1999/CodeWars-Java/5%20kyu?color=ECB613&label=5%20kyu&type=dir"><br>
 <img src="https://img.shields.io/github/directory-file-count/danielex1999/CodeWars-Java/4%20kyu?color=3C7DBA&label=4%20kyu&type=dir">

@@ -8,6 +8,8 @@ Kata Found realized
 
 - [101 Dalmatians - squash the bugs, not the dogs!](dalmatians101SquashTheBugs)
 
+- [8kyu interpreters: HQ9+](kyu8InterpretersHQ9)
+
 - [Find Nearest square number](findNearestSquareNumber)
 
 

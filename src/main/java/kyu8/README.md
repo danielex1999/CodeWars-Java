@@ -10,7 +10,7 @@ Kata Found realized
 
 - [8kyu interpreters: HQ9+](kyu8InterpretersHQ9)
 
-- [A + B](A+B)
+- [A + B](aSumB)
 
 - [Find Nearest square number](findNearestSquareNumber)
 

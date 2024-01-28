@@ -12,6 +12,8 @@ Kata Found realized
 
 - [A + B](aSumB)
 
+- [A Needle in the Haystack](aNeedleInTheHaystack)
+
 - [Find Nearest square number](findNearestSquareNumber)
 
 

@@ -14,6 +14,8 @@ Kata Found realized
 
 - [A Needle in the Haystack](aNeedleInTheHaystack)
 
+- [A Strange Trip to the Market](aStrangeTripToTheMarket)
+
 - [Find Nearest square number](findNearestSquareNumber)
 
 

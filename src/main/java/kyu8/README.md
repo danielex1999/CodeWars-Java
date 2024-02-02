@@ -18,6 +18,8 @@ Kata Found realized
 
 - [A wolf in sheep's clothing](aWolfInSheepClothing)
 
+- [Abbreviate a Two Word Name](abbreviateATwoWordName)
+- 
 - [Find Nearest square number](findNearestSquareNumber)
 
 

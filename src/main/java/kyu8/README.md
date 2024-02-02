@@ -19,7 +19,9 @@ Kata Found realized
 - [A wolf in sheep's clothing](aWolfInSheepClothing)
 
 - [Abbreviate a Two Word Name](abbreviateATwoWordName)
-- 
+
+- [Age Range Compatibility Equation](ageRangeCompatibilityEquation)
+
 - [Find Nearest square number](findNearestSquareNumber)
 
 

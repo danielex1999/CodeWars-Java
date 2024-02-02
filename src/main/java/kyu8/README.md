@@ -16,6 +16,8 @@ Kata Found realized
 
 - [A Strange Trip to the Market](aStrangeTripToTheMarket)
 
+- [A wolf in sheep's clothing](aWolfInSheepClothing)
+
 - [Find Nearest square number](findNearestSquareNumber)
 
 

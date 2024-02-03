@@ -22,6 +22,8 @@ Kata Found realized
 
 - [Age Range Compatibility Equation](ageRangeCompatibilityEquation)
 
+- [All Star Code Challenge #18](allStarCodeChallenge18)
+
 - [Find Nearest square number](findNearestSquareNumber)
 
 

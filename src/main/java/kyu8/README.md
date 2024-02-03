@@ -24,6 +24,8 @@ Kata Found realized
 
 - [All Star Code Challenge #18](allStarCodeChallenge18)
 
+- [Are You Playing Banjo?](areYouPlayingBanjo)
+
 - [Find Nearest square number](findNearestSquareNumber)
 
 

@@ -26,6 +26,8 @@ Kata Found realized
 
 - [Are You Playing Banjo?](areYouPlayingBanjo)
 
+- [Area of a Square](areaOfASquare)
+
 - [Find Nearest square number](findNearestSquareNumber)
 
 

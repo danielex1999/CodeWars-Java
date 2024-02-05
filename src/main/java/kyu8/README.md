@@ -30,6 +30,8 @@ Kata Found realized
 
 - [Area or Perimeter](areaOrPerimeter)
 
+- [Array plus array](arrayPlusArray)
+
 - [Find Nearest square number](findNearestSquareNumber)
 
 

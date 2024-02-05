@@ -28,6 +28,8 @@ Kata Found realized
 
 - [Area of a Square](areaOfASquare)
 
+- [Area or Perimeter](areaOrPerimeter)
+
 - [Find Nearest square number](findNearestSquareNumber)
 
 

@@ -32,6 +32,8 @@ Kata Found realized
 
 - [Array plus array](arrayPlusArray)
 
+- [Basic Mathematical Operations](basicMathematicalOperations)
+
 - [Find Nearest square number](findNearestSquareNumber)
 
 

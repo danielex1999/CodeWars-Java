@@ -34,6 +34,8 @@ Kata Found realized
 
 - [Basic Mathematical Operations](basicMathematicalOperations)
 
+- [Basic subclasses - Adam and Eve](basicSubclassesAdamAndEve)
+
 - [Find Nearest square number](findNearestSquareNumber)
 
 

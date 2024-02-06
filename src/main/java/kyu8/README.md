@@ -36,6 +36,8 @@ Kata Found realized
 
 - [Basic subclasses - Adam and Eve](basicSubclassesAdamAndEve)
 
+- [Basic variable assignment](basicVariableAssignment)
+
 - [Find Nearest square number](findNearestSquareNumber)
 
 

@@ -38,6 +38,8 @@ Kata Found realized
 
 - [Basic variable assignment](basicVariableAssignment)
 
+- [Be Concise I - The Ternary Operator](beConciseITheTernaryOperator)
+
 - [Find Nearest square number](findNearestSquareNumber)
 
 

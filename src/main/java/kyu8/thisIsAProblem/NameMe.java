@@ -20,6 +20,6 @@ public class NameMe {
     }
 
     public String getFullName() {
-        return this.firstName + " " + this.lastName;
+        return this.fullName;
     }
 }

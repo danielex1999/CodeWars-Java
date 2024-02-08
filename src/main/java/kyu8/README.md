@@ -40,6 +40,8 @@ Kata Found realized
 
 - [Be Concise I - The Ternary Operator](beConciseITheTernaryOperator)
 
+- [Be Concise IV - Index of an element in an array]()
+
 - [Find Nearest square number](findNearestSquareNumber)
 
 

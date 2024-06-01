@@ -30,10 +30,11 @@ the content and community.
 | Proficient (128 points) | 1st kyū |
 
 
-<img src="https://www.ffbegif.com/Rain%20&%20Fina%20(NV)/100032707%20Win.png" width="150px">
+ 
 </div>
-
-
+<img align='left' src='https://www.ffbegif.com/Rain%20&%20Fina%20(NV)/100032707%20Win%20Before.gif' width='20%'>  
+<img align='right' src='https://www.ffbegif.com/Dark%20Fina%20&%20Sol%20(NV)/100033007%20Win.gif' width='20%'> 
+<br><br><br><br><br><br>
 > [!NOTE]
 > The following technologies are being used for this project.
 

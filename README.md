@@ -1,4 +1,8 @@
-# ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=black)<img src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" width="35px" alt="java" align="right">
+# ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=black)
+
+<code><img src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" width="30px" alt="java"></code>
+<code><img src="https://junit.org/junit5/assets/img/junit5-logo.png" width="25px" alt="java"></code>
+
 
 ![](https://www.codewars.com/users/danielex1999/badges/large)<br><br>
 [![Java](https://img.shields.io/badge/Language-Java-28C8E5.svg)](README.md)

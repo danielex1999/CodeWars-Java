@@ -1,8 +1,11 @@
 # ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=black)
 
+> [!NOTE]
+> Se está utilizando para este proyecto las siguientes tecnologías.
+
 <code><img src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" width="30px" alt="java"></code>
 <code><img src="https://junit.org/junit5/assets/img/junit5-logo.png" width="25px" alt="java"></code>
-
+<code><a href="" target="_blank"><img src="src/main/resources/img/IntelliJ.png" width="26px" alt="selenium"></a></code>
 
 ![](https://www.codewars.com/users/danielex1999/badges/large)<br><br>
 [![Java](https://img.shields.io/badge/Language-Java-28C8E5.svg)](README.md)

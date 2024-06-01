@@ -1,7 +1,7 @@
 # ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=black)
 
 > [!NOTE]
-> Se está utilizando para este proyecto las siguientes tecnologías.
+> The following technologies are being used for this project.
 
 <code><img src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" width="30px" alt="java"></code>
 <code><img src="https://junit.org/junit5/assets/img/junit5-logo.png" width="25px" alt="java"></code>

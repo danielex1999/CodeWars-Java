@@ -1,12 +1,5 @@
 # ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=black)
 
-> [!NOTE]
-> The following technologies are being used for this project.
-
-<code><img src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" width="30px" alt="java"></code>
-<code><img src="https://junit.org/junit5/assets/img/junit5-logo.png" width="25px" alt="java"></code>
-<code><a href="" target="_blank"><img src="src/main/resources/img/IntelliJ.png" width="26px" alt="selenium"></a></code>
-
 ![](https://www.codewars.com/users/danielex1999/badges/large)<br><br>
 [![Java](https://img.shields.io/badge/Language-Java-28C8E5.svg)](README.md)
 [![Último commit](https://img.shields.io/github/last-commit/danielex1999/Codewars-Java?color=1B3E8E)](README.md)<br><br>
@@ -36,4 +29,14 @@ the content and community.
 | Proficient (128 points) | 2nd kyū |
 | Proficient (128 points) | 1st kyū |
 
+
+<img src="https://www.ffbegif.com/Rain%20&%20Fina%20(NV)/100032707%20Win.png" width="100px">
 </div>
+
+
+> [!NOTE]
+> The following technologies are being used for this project.
+
+<code><img src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" width="30px" alt="java"></code>
+<code><img src="https://junit.org/junit5/assets/img/junit5-logo.png" width="25px" alt="java"></code>
+<code><a href="" target="_blank"><img src="src/main/resources/img/IntelliJ.png" width="26px" alt="selenium"></a></code>

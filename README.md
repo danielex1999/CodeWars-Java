@@ -30,7 +30,7 @@ the content and community.
 | Proficient (128 points) | 1st kyū |
 
 
-<img src="https://www.ffbegif.com/Rain%20&%20Fina%20(NV)/100032707%20Win.png" width="100px">
+<img src="https://www.ffbegif.com/Rain%20&%20Fina%20(NV)/100032707%20Win.png" width="150px">
 </div>
 
 
